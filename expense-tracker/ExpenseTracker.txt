@@ -1,0 +1,1 @@
+Expense: 50.0, Description: Notebook
